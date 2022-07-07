@@ -1,0 +1,9 @@
+GIT/GITHUB (Conceitos e funcionalidades)
+
+- git init = inicializar um repositório
+- git init --bare= repositório servidor local
+- git status = traz várias informações inclusive de arquivos que ainda precisam ser comitados
+- git clone = para clonar
+- HEAD= estado atual do código
+- working tree = local onde os arquivos estão armazenado e editados.
+- index = local onde o Git armazena o que será comitado entre o working tree e o repositório Git.
